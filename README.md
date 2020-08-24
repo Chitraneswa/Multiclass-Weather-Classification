@@ -1,0 +1,2 @@
+# Multiclass-Weather-Classification
+The aim of the implemented deep learning model is to build a convolutional neural network that classifies different weather conditions  while working reasonably well under constraints of computation.Here the model is using data augmentation technique, considering transfer learning with VGG neural network architecture for feature extraction process when classifying outdoor scenes in a multiclass setting using general purpose images.
